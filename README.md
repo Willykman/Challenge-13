@@ -7,15 +7,20 @@ The business team has given you a CSV containing more than 34,000 organisations 
 information about these businesses, including whether or not they ultimately became successful.
 
 ***Acceptance Criteria***
+
 The application must meet the following acceptance criteria:
 
 *Pre-process the data for it to be used by the neural network model.*
+
 *Build a binary classification model using a neural network.*
+
 *Evaluate the performance of the model.*
+
 *Optimize the neural network model by trying several strategies.*
 
 ***Technologies***
 This project is written in Python with the following libraries:
+
 *pandas*
 *tensorflow*
 *sklearn* 
