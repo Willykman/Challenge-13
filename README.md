@@ -19,11 +19,15 @@ The application must meet the following acceptance criteria:
 *Optimize the neural network model by trying several strategies.*
 
 ***Technologies***
+
 This project is written in Python with the following libraries:
 
 **pandas**
+
 **tensorflow**
+
 **sklearn**
+
 
 ***Contributors***
 
