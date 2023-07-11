@@ -21,9 +21,9 @@ The application must meet the following acceptance criteria:
 ***Technologies***
 This project is written in Python with the following libraries:
 
-*pandas*
-*tensorflow*
-*sklearn* 
+**pandas**
+**tensorflow**
+**sklearn**
 
 ***Contributors***
 
